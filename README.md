@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Wong Shou Hong (Alan)
-- 🧑🏻‍🎓 I graduated from Multimedia University majoring Computer Science, Software Engineering 
-- 🌱 I’m currently a full stack developer with the following stack
-      - React Native, NuxtJs (VueJs), Laravel, MySQL
-- 💻 My other skill highlights besides from what I'm currently working on are HTML, CSS, Bootstrap, JQuery, PHP, Codeigniter
+- 👋 Hi, I’m Wong Shou Hong, usually people will call me Alan
+- 🧑🏻‍🎓 I graduated from Multimedia University in Malaysia majoring Computer Science, Software Engineering 
+- 🌱 I’m currently a full stack developer with the following stack and tools
+      - Programming: NuxtJs (VueJs), Laravel, React Native, MySQL
+      - Versioning Tools: GitHub
+      - DevOps: GitHub Actions CI/CD
+- 💻 Other things that I worked on included HTML, CSS, Bootstrap, JQuery, PHP, Codeigniter
 - 📫 You can email me at alan_wsh@hotmail.com
