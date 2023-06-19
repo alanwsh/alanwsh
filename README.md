@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Wong Shou Hong, usually people will call me Alan
-- Here are my basic information.
-      - Age: 25
-      - Gender: Male
-      - Working Experience: 2 years
-      - Current Location: Kuala Lumpur, Malaysia
-- 🧑🏻‍🎓 I graduated from Multimedia University in Malaysia majoring Computer Science, Software Engineering 
+- Here are my basic information:
+      <br> Age: 25
+      <br> Gender: Male
+      <br> Working Experience: 2 years
+      <br> Current Location: Kuala Lumpur, Malaysia
+- 🧑🏻‍🎓 I graduated from Multimedia University Malaysia majoring in Computer Science, Software Engineering 
 - 🌱 I’m currently a full stack developer with the following stack and tools
       - Programming: NuxtJs (VueJs), Laravel, React Native, MySQL
       - Versioning Tools: GitHub
